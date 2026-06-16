@@ -19,3 +19,16 @@ print(salary)
 merge = pd.merge(employes , salary , on='employee_Id', how='inner')
 merge = pd.merge(employes , salary , on='employee_Id', how='outer')
 merge = pd.merge(employes , salary , on='employee_Id', how='left')
+
+
+df1 = pd.DataFrame({
+    'name':['Alice', 'Bob','Joe']
+    
+}, index=[1,2,3])
+
+df2 = pd.DataFrame({
+    'Score':[85,90,75]
+}, index=[2,3,4])
+print(df2)
+print(df1.join(df2))
+print(df1.join(df2,how='outer'))
