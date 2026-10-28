@@ -1,0 +1,31 @@
+Game,Genre,Platform,Release_Year,Monthly_Active_Users_M,Monthly_Downloads_M,Revenue_USD_M,Marketing_Spend_USD_M,Average_Session_Minutes,Retention_Rate_Percent
+PUBG Mobile,Battle Royale,Mobile,2018,1200,320,68,42,1850,28.5
+Honor of Kings,MOBA,Mobile,2015,950,260,62,38,2100,31.2
+Peacekeeper Elite,Battle Royale,Mobile,2019,780,210,54,34,1450,22.4
+League of Legends,MOBA,PC,2009,180,95,44,28,1700,25.0
+VALORANT,Tactical Shooter,PC,2020,95,48,29,18,920,14.8
+Clash of Clans,Strategy,Mobile,2012,320,85,24,16,760,11.2
+Clash Royale,Strategy,Mobile,2016,210,58,18,12,540,8.6
+Brawl Stars,Action,Mobile,2018,260,72,21,14,680,10.4
+Dungeon Fighter Online,Action RPG,PC,2005,140,64,16,11,610,9.3
+CrossFire,FPS,PC,2007,125,55,14,9,570,8.1
+Genshin Impact,Action RPG,Mobile/PC/Console,2020,110,42,20,13,800,12.5
+Roblox,Sandbox,PC/Mobile/Console,2006,230,68,25,17,1100,16.3
+Minecraft,Sandbox,PC/Mobile/Console,2011,190,60,22,15,980,14.2
+Call of Duty: Mobile,FPS,Mobile,2019,340,92,31,20,870,13.1
+Free Fire,Battle Royale,Mobile,2017,410,105,35,23,990,15.0
+Apex Legends,Battle Royale,PC/Console,2019,85,36,17,10,460,6.9
+Fortnite,Battle Royale,PC/Console/Mobile,2017,150,70,32,21,1250,19.1
+Dota 2,MOBA,PC,2013,75,28,11,7,390,5.8
+Overwatch 2,Hero Shooter,PC/Console,2022,48,20,9,6,320,4.7
+Rocket League,Sports,PC/Console,2015,68,25,10,6,350,5.2
+The Sims 4,Simulation,PC/Console,2014,92,34,13,8,440,6.4
+FIFA Mobile,Sports,Mobile,2016,175,50,19,12,510,7.8
+Pokémon GO,AR,Mobile,2016,205,62,23,14,630,9.7
+Mobile Legends,MOBA,Mobile,2016,370,98,33,22,890,13.8
+Arena of Valor,MOBA,Mobile,2016,155,45,15,10,480,7.2
+World of Warcraft,MMORPG,PC,2004,58,22,8,5,300,4.3
+The Legend of Zelda: BOTW,Adventure,Console,2017,32,15,7,4,220,3.2
+Grand Theft Auto V,Action Adventure,PC/Console,2013,195,75,26,17,1150,17.4
+Red Dead Redemption 2,Action Adventure,PC/Console,2018,42,18,8,5,280,4.1
+Among Us,Social Deduction,PC/Mobile/Console,2018,88,29,12,8,410,6.0
